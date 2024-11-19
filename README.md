@@ -22,11 +22,14 @@ Em seguida, digite o segundo número e pressione Enter.
 Selecionando a Operação:
 
 Escolha a operação desejada digitando um dos seguintes símbolos:
+
 + para adição
 - para subtração
 * para multiplicação
 / para divisão
+
 Pressione Enter após digitar o símbolo.
+
 Visualizando o Resultado:
 
 O programa exibirá o resultado da operação.
