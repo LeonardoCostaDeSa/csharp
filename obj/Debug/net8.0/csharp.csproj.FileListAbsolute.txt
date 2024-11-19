@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\bin\Debug\net8.0\csharp.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\bin\Debug\net8.0\csharp.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\bin\Debug\net8.0\csharp.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Estudos\alura\csharp\obj\Debug\net8.0\ref\csharp.dll
